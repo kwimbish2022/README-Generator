@@ -18,7 +18,7 @@ MIT GPL OSL
 
 ## Contributors
 Me, Myself, and I - Kathryn Wimbish
-Starter Code/Base Code by Washington University in St. Louis Full Stack Web Developer Bootcamp
+Starter Code/Base Code by Xander Rapstine Xandromus via Washington University in St. Louis Full Stack Web Developer Bootcamp
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## Questions?
