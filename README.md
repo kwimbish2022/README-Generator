@@ -1,9 +1,9 @@
 
-[![Generic badge](https://img.shields.io/badge/license--<COLOR>.svg)](#license)
-# README.md-Generator
+[![Generic badge](https://img.shields.io/badge/license-MIT-<COLOR>.svg)](#license)
+# README-Generator
 
 ## Description
-A template to create a README.md file for future projects to save time in creation.
+A template to be used in the command line/terminal to create dynamic README files for future projects.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,19 +14,19 @@ A template to create a README.md file for future projects to save time in creati
 * [Questions](#email #github)
 
 ## Installation
-Make sure to run in node, had to install fs and inquirer.
+oawifoijwfiwjfoiwjfoiwjfiowejfoiejfoiejfweoif
 
 ## Usage
-To save time to create a detailed quality readme file when working on new projects.
+piejpeijfpiejfpqijfpqiwejpijqepijipfj
 
 ## License
-### Licensed under []().
+### Licensed under [MIT]().
 
 ## Contributing
-Me Myself and I
+Bootcamp starter code, Kathryn Wimbish
 
 ## Tests
-none at this time
+woifjwoeijfweoijfwoeifj
 
 ## Questions
 * GitHub: [kwimbish2022](https://github.com/kwimbish2022)
