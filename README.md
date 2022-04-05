@@ -11,7 +11,10 @@ You'll need to run npm install inquirer. NPM fs is already a part of core Node.j
 To start, run node index.js in your terminal/command line. Answer the prompts to generate the content of the README. Make sure not to typo your GitHub username and email. After you've answered all the questions, your new README file will be created and will be waitin in your repo.
 
 ## Usage
-->insert video demo here<-
+https://drive.google.com/file/d/1D3FsM-B5czfkQgDy2u9kyfvfkcyMbF_0/view
+
+<img src="https://github.com/kwimbish2022/README-Generator/blob/main/assets/Screenshot1.png" >
+<img src="https://github.com/kwimbish2022/README-Generator/blob/main/assets/Screenshot2.png" >
 
 ## License
 MIT GPL OSL
